@@ -1,0 +1,22 @@
+{
+  "name": "palworld-rcon-nodejs",
+  "version": "1.0.0",
+  "description": "The Remote Control utility for palworld",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SentenceDot/palworld-rcon-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SentenceDot/palworld-rcon-nodejs/issues"
+  },
+  "homepage": "https://github.com/SentenceDot/palworld-rcon-nodejs#readme",
+  "dependencies": {
+    "rcon": "^1.1.0"
+  }
+}
